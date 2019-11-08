@@ -447,6 +447,7 @@ margin-bottom: 3%;
 
   nav li {
     display: block;
+    overflow-x: hidden;
   }
 
   nav {
@@ -471,7 +472,7 @@ margin-bottom: 3%;
   }
 
   .socials{
-    top: 97%;
+    top: 99%;
   }
 
   .nav-links {
